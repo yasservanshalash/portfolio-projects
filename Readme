@@ -1,0 +1,5 @@
+Title : Hacker news post analysis to get top rated news.
+Data collected from kaggle and then find out useful column like ask post, show post, time of posting, comments .
+based on these parameters we analysed data and found valuable insights how and when we can use post knowledge to get top rating.
+For comments section we have got ask post is higher average than show post and specially on evenig time.
+On the other hand, in points section show post is more effective than ask post in day time. 
